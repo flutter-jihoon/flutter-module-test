@@ -1,0 +1,1 @@
+flutter build ios-framework --no-profile --output=./Flutter
